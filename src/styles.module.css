@@ -1,0 +1,15 @@
+.headerMainStyle {
+    background-color: lightblue;
+    color: black;
+    padding: 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  .frontHeaderBox {
+    width: 10%;
+    padding: 20px;
+  }
+
